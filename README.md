@@ -1,4 +1,4 @@
-# MGUS_HIRA
+# mm-precursor-survival
 
 이 저장소는 아래 연구 논문의 분석 코드를 포함합니다.
 
